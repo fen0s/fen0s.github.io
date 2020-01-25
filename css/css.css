@@ -1,0 +1,44 @@
+.navbar {
+	height: 70px;
+}
+.nav-link {
+	color: white
+}
+.nav-item {
+	margin-right: 30px;
+	margin-left: 10px;
+	font-size: 17px !important;
+	border:5px #000;
+	border-style: solid;
+	border-color: #7d7d7d;
+	border-width: 2px;
+	border-radius: 13px;
+}
+.navbar-brand {
+	margin-left: 5px;
+	margin-right: 40px!important;
+}
+.jumbotron{
+	background-color: #c7c7c7!important
+}
+.card {
+	width: 18rem;
+	background: linear-gradient(to right, #f2f2f2, #d5ddde)
+}
+.nav-link {
+	color: white !important
+}
+.github-widget {
+	margin-left: auto;
+	margin-right: auto;
+}
+.container-fluid {
+	text-align: center
+}
+#greetings {
+	text-align: center;
+	background: linear-gradient(to right, #c9d6ff, #e2e2e2);
+}
+#projects {text-align: center}
+body {background-color: #f7f7f7 !important}
+footer {font-size: 20px; margin-top: 30px}
